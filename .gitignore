@@ -1,0 +1,22 @@
+# Microdados e arquivos grandes
+*.zip
+*.7z
+*.rar
+*.csv
+dados/
+microdados/
+
+# Arquivos temporários do R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Resultados regeneráveis
+resultados/*.png
+resultados/*.csv
