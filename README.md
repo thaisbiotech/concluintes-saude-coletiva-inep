@@ -7,6 +7,7 @@ de Cursos do Censo da Educação Superior/INEP, de 2013 a 2023.
 ## Metodologia
 
 - Fonte: microdados do Censo da Educação Superior/INEP.
+- Download dos microdados: [portal oficial do INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior).
 - Período: 2013–2023.
 - Grau acadêmico: bacharelado (`TP_GRAU_ACADEMICO = 1`).
 - Seleção: denominações relacionadas à Saúde Coletiva, Saúde Pública, Gestão e
@@ -25,8 +26,9 @@ obtidos diretamente no portal do INEP.
 
 ## Como executar
 
-1. Baixe os arquivos anuais do Censo da Educação Superior e coloque os ZIPs em
-   uma pasta local.
+1. Baixe os arquivos anuais na página oficial dos
+   [microdados do Censo da Educação Superior/INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior)
+   e coloque os arquivos ZIP em uma pasta local.
 2. Instale os pacotes necessários:
 
 ```r
