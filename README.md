@@ -1,5 +1,7 @@
 # Concluintes de bacharelados em Saúde Coletiva — INEP
 
+**Desenvolvido por Thaís Barbosa de Oliveira + Codex (OpenAI)**
+
 Análise descritiva dos concluintes de cursos de bacharelado em Saúde Coletiva,
 Saúde Pública, Gestão e Vigilância em Saúde, com base nos microdados do Cadastro
 de Cursos do Censo da Educação Superior/INEP, de 2013 a 2023.
@@ -71,6 +73,7 @@ permanecem fora do GitHub.
 
 ## Apoio no desenvolvimento
 
-Análise desenvolvida pela autora com apoio do Codex, da OpenAI, na organização,
-revisão e documentação do código em R. As decisões metodológicas, a conferência
-dos resultados e a responsabilidade pelo conteúdo são da autora.
+Este projeto foi desenvolvido em colaboração por **Thaís Barbosa de Oliveira e
+Codex (OpenAI)**. Thaís conduziu a pesquisa e as decisões metodológicas; o Codex
+apoiou a construção, organização, revisão e documentação do código em R. A
+conferência dos resultados e a responsabilidade pelo conteúdo são da autora.
